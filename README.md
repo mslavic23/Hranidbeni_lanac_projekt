@@ -1,5 +1,5 @@
 # Hradibeni lanac - projekt
-## Pregled
+## Opis
 Ovo je projekt za kolegij Objektno orijentirano programiranje (OOP) u jeziku C++. Projekt povezuje različite podtipove podataka o hranidbenom lancu u jednu cjelovitu i zanimljivu cjelinu.
 
 ## Značajke
